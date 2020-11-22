@@ -1,6 +1,7 @@
 # Supervised Learning to classify the Poker Hands.
 
-## Algorithms used : ` Random Forest , KNeighborsClassifier, GradientBoostingClassifier `
+## Algorithms used : 
+` Random Forest , KNeighborsClassifier, GradientBoostingClassifier `
 
 ## Conclusion: 
 - KNeighborsClassifier gave higher accuracy for this dataset which is 63.94%.
